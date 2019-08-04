@@ -133,7 +133,7 @@ categories:
 拉萨也和中国很多地方一样，温室大棚随处可见:
 
 ![Lhasa-1](https://donut-uestc.oss-cn-hangzhou.aliyuncs.com/posts/2019-07-28-how-china-provide-enough-food/Lhasa-1.png)
-![Lhasa-2](https://donut-uestc.oss-cn-hangzhou.aliyuncs.com/posts/2019-07-28-how-china-provide-enough-food/Lhasa-2.png)
+![Lhasa-2](https://donut-uestc.oss-cn-hangzhou.aliyuncs.com/posts/2019-07-28-how-china-provide-enough-food/Lhasa-2.jpg)
 
 中国政府积极引导当地农民搭建温室大棚，因为产量的提高，让当地的蔬菜价格也在十年内下降了90%，也降低对其他省份进口的依赖度，让果蔬成为了当地普通居民可以消费的食物，而不是某些人的特权。
 
