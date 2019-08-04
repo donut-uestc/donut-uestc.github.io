@@ -8,7 +8,7 @@ categories:
 这是Quora上的一个问题的回答，感觉作者的视角很有意思，是我们身为中国人感知不到的，所以这里摘要翻译以下，以供赏析。
 
 
-## 地点1-中国福建宁德(26°43'02.8"N 119°57'45.2"E)
+# 地点1-中国福建宁德(26°43'02.8"N 119°57'45.2"E)
 
 ![ningde-1](https://donut-uestc.oss-cn-hangzhou.aliyuncs.com/posts/2019-07-28-how-china-provide-enough-food/ningde-fujian-1.png)
 
@@ -47,7 +47,7 @@ categories:
 ![ningde-6](https://donut-uestc.oss-cn-hangzhou.aliyuncs.com/posts/2019-07-28-how-china-provide-enough-food/ningde-fujian-6.jpg)
 
 
-## 地点2-浙江杭州南浔(30°46'14.5"N 120°09'02.9"E)
+# 地点2-浙江杭州南浔(30°46'14.5"N 120°09'02.9"E)
 
 ![nanxun-1](https://donut-uestc.oss-cn-hangzhou.aliyuncs.com/posts/2019-07-28-how-china-provide-enough-food/nanxun-zhejiang-1.png)
 
@@ -55,7 +55,7 @@ categories:
 
 如果你仔细观察会发现，每个鱼塘周围都种满了树，这就是中国农民的智慧体现。
 
-### 生态循环1:鱼-桑树-蚕
+## 生态循环1:鱼-桑树-蚕
 
 池塘周围的树，就是桑树。
 
@@ -79,7 +79,7 @@ categories:
 
 通过上面生态系统的介绍，你就能理解为何中国可以提供全球丝绸产量的84%，全球水产鱼的66%，以及光伏能量的25.5%。
 
-### 生态循环2：鱼-莲藕
+## 生态循环2：鱼-莲藕
 
 在养渔的同时种植莲藕也是中国农名的普遍做法，中国提供了全球90%莲藕的产量和60%的出口总量，韩国，日本以及越南的居民也非常喜爱莲藕这种食物。
 
@@ -100,7 +100,7 @@ categories:
 中国的菜籽油产量占据全球的22%，而蜂蜜产量则占据了全球的30%以上。
 
 
-## 地点3-山东寿光(36°44'15.9"N 118°44'14.7"E)
+# 地点3-山东寿光(36°44'15.9"N 118°44'14.7"E)
 
 ![shouguang-1](https://donut-uestc.oss-cn-hangzhou.aliyuncs.com/posts/2019-07-28-how-china-provide-enough-food/shouguang-shandong-1.png)
 
@@ -128,7 +128,7 @@ categories:
 
 2016年全球的西瓜产量为1.11吨，而中国西瓜产量为0.793吨，在日本一个西瓜大约需要100人民币，而在中国只需要10人民币。
 
-## 地点4-西藏拉萨(29°41'52.3"N 91°09'18.6"E)
+# 地点4-西藏拉萨(29°41'52.3"N 91°09'18.6"E)
 
 拉萨也和中国很多地方一样，温室大棚随处可见:
 
@@ -159,7 +159,7 @@ categories:
 ![Lhasa-7](https://donut-uestc.oss-cn-hangzhou.aliyuncs.com/posts/2019-07-28-how-china-provide-enough-food/Lhasa-7.jpg)
 
 
-## 地点6-新疆巴音戈尔河津(42°18'36.1"N 86°36'15.4"E)
+# 地点6-新疆巴音戈尔河津(42°18'36.1"N 86°36'15.4"E)
 
 ![Hejing](https://donut-uestc.oss-cn-hangzhou.aliyuncs.com/posts/2019-07-28-how-china-provide-enough-food/Hejing-1.png)
 ![Hejing](https://donut-uestc.oss-cn-hangzhou.aliyuncs.com/posts/2019-07-28-how-china-provide-enough-food/Hejing-2.jpg)
@@ -207,6 +207,8 @@ categories:
 ![pork](https://donut-uestc.oss-cn-hangzhou.aliyuncs.com/posts/2019-07-28-how-china-provide-enough-food/pork.png)
 
 通过上面的统计你可以看到中国人对猪肉的偏爱，中国的很多圈养猪都是喂食来自美国和巴西的玉米饲料，鸡鸭牛也是如此。
+
+# 结论
 
 **总的来说，中国居民可以享受到比全球大部分发展中国家更好的食物供给，不论是在产品的价格上，还是在种类的丰富性上，比如下面这一桌菜在山东只需要300人民币，而在中国一线城市，比如北京上海则需要1000人民币，而在加州或者日本，则需要2000人民币，所以对于加州或者日本的来说这种一桌20个菜的消费是非常奢侈的，而在中国这很家常。**
 
