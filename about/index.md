@@ -3,6 +3,10 @@ layout: page
 type: about
 ---
 
+# 常用信息
+
+## [好文收藏](./article_collection.md)
+
 ## 网站收藏
 
 * 新闻
