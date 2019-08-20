@@ -15,9 +15,9 @@ Uboot早期是通过手动编辑一个config文件来完配置的，但是手动
 **注意！！！**Uboot规定所有的宏都使用CONFIG\_作为前缀，各种关于宏的配置以及转换也是基于CONFIG\_完成的，如果新增配置选项，需要遵守该规则。
 
 
-## Uboot配置流程（以sandbox为例）
+# Uboot配置流程（以sandbox为例）
 
-### 1.生成初始配置文件.config
+## 1.生成初始配置文件.config
 
 当启动一个Kconfig配置界面的时候，每个配置选项的初始值有两个来源，一个是Kconfig文件中通过关键字**default**描述的，还有一个是当前目录下的.config文件，后者覆盖前者。
 
@@ -38,7 +38,7 @@ $ make sandbox_defconfig
 
 实际上，.config文件是由宿主机编译出来的conf程序读取./configs/sandbox_defconfig文件和各级Kconfig文件后生成的，我们可以看到.config中的配置项明显比./configs/sandbox_defconfig更多，那是因为还包含了各级目录下的Kconfig文件中的配置选项和默认值。
 
-### 2. 修改配置文件并更新.config
+## 2. 修改配置文件并更新.config
 
 如果需要根据自己新的硬件架构调整配置选项的值，就需要启动配置界面：
 
@@ -63,7 +63,7 @@ Configuration targets:
 
 因为是通过简单的键盘选中/编辑操作，而且规定了依赖关系，从而避免了不合理配置的引入，极大的保证了配置的可靠性。
 
-### 3.生成配置相关文件
+## 3.生成配置相关文件
 
 前面两步只是完成了.config文件，打开.config文件你会发现格式如下：
 
@@ -100,7 +100,7 @@ make: Nothing to be done for 'cfg'.
 
 通过上述的自动生成和头文件包含关系可以看出，.config中的配置最终会在common.h得以体现，这样就完成了配置的导入和宏编译的控制。
 
-## Kconfig语法说明
+# Kconfig语法说明
 
 配置选项的设置和相互之间的依赖关系是通过各层级的Kconfig文件来进行描述的，Kconfig有自己的语法结构，用于表达菜单入口，配置选项以及依赖关系等。
 
@@ -164,7 +164,7 @@ config LOCALVERSION_AUTO
 
 我们结合menuconfig的图以及上面的Kconfig文件内容，来简单说下Kconfig的语法使用。
 
-### 1.菜单入口
+## 1.菜单入口
 
 ```
 mainmenu "U-Boot $UBOOTVERSION Configuration"
@@ -227,7 +227,7 @@ endif # EXPERT
 ![](https://donut-uestc.oss-cn-hangzhou.aliyuncs.com/posts/2019-08-20-uboot-kconfig/menuconfig-kconfig-2.png)
 
 
-### 2.配置选项
+## 2.配置选项
 
 ```
 config UBOOTVERSION
@@ -261,7 +261,7 @@ Kconfig使用关键字**cofnig**来定义配置选项，后面通过不同的关
     * 帮助文档
     * 语法： 关键字下面开始直到空行都是帮助说明的内容
 
-### 3.多选一
+## 3.多选一
 
 Kconfig使用关键字choice和endchoice来组织一个选择列表，只能选中其中一个。
 
@@ -283,7 +283,7 @@ endchoice
 
 ![](https://donut-uestc.oss-cn-hangzhou.aliyuncs.com/posts/2019-08-20-uboot-kconfig/choice-kconfig-1.png)
 
-### 4.包含其他Kconfig文件
+## 4.包含其他Kconfig文件
 
 可以使用source关键字来包含其他Kconfig文件，相当于C语言的include。
 
