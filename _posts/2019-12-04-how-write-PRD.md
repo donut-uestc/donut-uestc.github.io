@@ -1,5 +1,5 @@
 ---
-title:【译】如何写PRD？
+title: 【译】如何写PRD？
 date: 2019-12-09 12:00:00
 categories:
 - 产品经理
